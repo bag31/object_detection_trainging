@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+'''2024.04.17'''
+
 import os
 import glob
 import time
